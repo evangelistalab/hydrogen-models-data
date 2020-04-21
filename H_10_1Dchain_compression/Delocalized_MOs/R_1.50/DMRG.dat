@@ -1,3 +1,5 @@
+#            DMRG       DMRG (RDM)    DMRG (RDM)
+#Npar    Energy error  Energy error  Cumulant error
 23428      0.000000      0.000000      0.000000
 23248      0.000000      0.000002      0.000000
 23068      0.000000      0.000005      0.001000
